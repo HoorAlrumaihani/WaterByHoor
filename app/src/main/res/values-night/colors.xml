@@ -1,0 +1,4 @@
+<resources>
+    <color name="widget_loading_bg">#0D1B2A</color>
+    <color name="widget_loading_text">#90CAF9</color>
+</resources>
